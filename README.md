@@ -178,11 +178,7 @@ void buscarElemento() {
 - [GeeksforGeeks — Linear Search](https://www.geeksforgeeks.org/linear-search/): explicação e exemplos de busca linear com análise passo a passo.
 - [Visualgo.net — List](https://visualgo.net/en/list): visualização animada de operações em listas lineares (inserção, remoção, busca).
 
-### Vídeos
 
-- Pesquise no YouTube por **"lista sequencial C++ estrutura de dados"** e **"passagem de parâmetros C++ por valor e referência"** para encontrar videoaulas em português alinhadas ao conteúdo desta disciplina.
-
----
 
 ## 9) Checklist para entrega
 
